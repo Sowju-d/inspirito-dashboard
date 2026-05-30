@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/inspirito-dashboard/static/css/main.e6c13ad2.css",
+    "main.js": "/inspirito-dashboard/static/js/main.606a1193.js",
+    "static/js/488.8a8793c6.chunk.js": "/inspirito-dashboard/static/js/488.8a8793c6.chunk.js",
+    "index.html": "/inspirito-dashboard/index.html",
+    "main.e6c13ad2.css.map": "/inspirito-dashboard/static/css/main.e6c13ad2.css.map",
+    "main.606a1193.js.map": "/inspirito-dashboard/static/js/main.606a1193.js.map",
+    "488.8a8793c6.chunk.js.map": "/inspirito-dashboard/static/js/488.8a8793c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.606a1193.js"
+  ]
+}
